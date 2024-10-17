@@ -18,7 +18,3 @@ Este proyecto es una aplicación de consola desarrollada para gestionar el inven
 - Python
 - Librería `math`
 - Expresiones Regulares (`re`)
-
-## Uso de Programación Estructurada
-
-La aplicación aplica principios de programación estructurada, dividiendo el código en funciones lógicas y procedimientos que abordan tareas específicas. Este enfoque ayuda a mantener el código organizado y facilita la comprensión del sistema.
