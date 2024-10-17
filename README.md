@@ -1,7 +1,5 @@
 # Aplicación de Gestión de Ventas para Disquería con Python
 
-## Descripción
-
 Este proyecto es una aplicación de consola desarrollada para gestionar el inventario y las ventas de una disquería. Permite a los empleados agregar discos, ver el inventario, eliminar discos y registrar ventas. El sistema lleva un registro de las ventas realizadas y permite consultar el total de las transacciones.
 
 ## Características
